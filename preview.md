@@ -66,5 +66,8 @@
 ---
 
 ### Изображение
+![Описание изображения](https://picsum.photos/800)
 
-![Описание изображения](https://picsum.photos/200/300)
+![](https://picsum.photos/700/900)
+---
+![](https://picsum.photos/1000/600)
